@@ -8,7 +8,7 @@ Research Work: Heart failure prediction.
   </tr>
   <tr>
     <th>Authors</th>
-    <td>Rakin Aftab, Sultanul Hamim, Mir Ahamed, M. F. Mridha, Mejdl Safran, and Dunren Che</td>
+    <td>Rakin Sad Aftab, Sultanul Arifieen Hamim, Mir Maruf Ahamed, M. F. Mridha, Mejdl Safran, and Dunren Che</td>
   </tr>
   <tr>
     <th>Corresponding Email</th>
