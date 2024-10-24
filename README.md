@@ -4,7 +4,7 @@ Research Work: Heart failure prediction.
 <table border="1">
   <tr>
     <th>Paper Title</th>
-    <td>SkinScanNet: A CNN-Based Model with Explainable AI for Reliable and Transparent Skin Cancer Detection</td>
+    <td>MedSeqNet: An Attention-Enhanced LSTM-Based Multi-Input Neural Network for Heart Failure Prediction</td>
   </tr>
   <tr>
     <th>Authors</th>
