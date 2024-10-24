@@ -22,4 +22,8 @@ Research Work: Heart failure prediction.
     <th>Status</th>
     <td>Under Review</td>
   </tr>
+  <tr>
+    <th>Code</th>
+    <td>.py is available and .ipynb will be available upon request.</td>
+  </tr>
 </table>
