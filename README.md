@@ -16,7 +16,7 @@ Research Work: Heart failure prediction.
   </tr>
   <tr>
     <th>Journal</th>
-    <td>Measurement: Journal of the International Measurement Confederation</td>
+    <td>International Journal of Medical Informatics</td>
   </tr>
   <tr>
     <th>Status</th>
