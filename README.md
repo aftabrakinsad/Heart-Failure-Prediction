@@ -16,7 +16,7 @@ Research Work: Heart failure prediction.
   </tr>
   <tr>
     <th>Journal</th>
-    <td>Computer Methods and Programs in Biomedicine</td>
+    <td>Journal of Biomedical Informatics</td>
   </tr>
   <tr>
     <th>Status</th>
