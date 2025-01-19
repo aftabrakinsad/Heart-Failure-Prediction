@@ -16,7 +16,7 @@ Research Work: Heart failure prediction.
   </tr>
   <tr>
     <th>Journal</th>
-    <td>Journal of Biomedical Informatics</td>
+    <td>Artificial Intelligence In Medicine</td>
   </tr>
   <tr>
     <th>Status</th>
