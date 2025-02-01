@@ -4,7 +4,7 @@ Research Work: Heart failure prediction.
 <table border="1">
   <tr>
     <th>Paper Title</th>
-    <td>MedSeqNet: An Attention-Enhanced LSTM-Based Multi-Input Neural Network for Heart Failure Prediction</td>
+    <td>An Advanced Multi-Input LSTM Framework with Attention for Predicting Heart Failure</td>
   </tr>
   <tr>
     <th>Authors</th>
