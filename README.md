@@ -20,7 +20,7 @@ Research Work: Heart failure prediction.
   </tr>
   <tr>
     <th>Status</th>
-    <td>Under Review</td>
+    <td>-</td>
   </tr>
   <tr>
     <th>Code</th>
