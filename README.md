@@ -1,10 +1,10 @@
 # MedSeqNet
-Research Work: Heart failure prediction.
+Research Work: Heart Failure Prediction.
 
 <table border="1">
   <tr>
     <th>Paper Title</th>
-    <td>An Advanced Multi-Input LSTM Framework with Attention for Predicting Heart Failure</td>
+    <td>A Novel Feature Attention Integrated Deep Learning Model for Heart Failure Prediction</td>
   </tr>
   <tr>
     <th>Authors</th>
