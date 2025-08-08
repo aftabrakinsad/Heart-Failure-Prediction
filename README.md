@@ -4,7 +4,7 @@ Research Work: Heart Failure Prediction.
 <table border="1">
   <tr>
     <th>Paper Title</th>
-    <td>A Novel Feature Attention Integrated Deep Learning Model for Heart Failure Prediction</td>
+    <td>Unveiling Heart Failure Risk: A Deep Learning Model with Dynamic Feature Attention for Accurate and Transparent Prediction</td>
   </tr>
   <tr>
     <th>Authors</th>
