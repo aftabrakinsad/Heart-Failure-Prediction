@@ -1,4 +1,3 @@
-# MedSeqNet
 Research Work: Heart Failure Prediction.
 
 <table border="1">
